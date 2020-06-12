@@ -1,0 +1,64 @@
+
+body { margin: 0;}
+
+.container{ 
+
+  padding: 80px 50px;
+
+}
+
+.google_image img{
+
+ width: 300px;
+ margin-right: 500px;
+ margin-left: 500px;
+}
+
+.Heading {
+    font-size: 20px;
+    text-align: center;
+    color: #333;
+    margin-top:  10px;
+    margin-bottom: 30px;
+    padding: 20px 250px;
+}
+   .color1{
+        color: orange;
+    }
+   .color2{
+        color: seagreen;
+    }
+
+   .color3{
+        color: skyblue;
+    }
+       
+   .color4{
+        color: red;
+    }
+   .color5{
+        color:purple;
+    }
+  
+.business_photo img {
+ width:100%;
+}
+
+.business_heading {
+  background-color:white;
+  color: blue;
+  font-size: 15px;
+  margin: 0px;
+}
+
+.paragraph {
+  font-size: 15px;
+  text-align: justify;
+}
+.conclusion_heading {
+  background-color: skyblue;
+  color:black;
+  text-align: center; 
+  padding: 30px;
+  font-size: 25px;
+}
